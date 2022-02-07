@@ -18,9 +18,17 @@ body, html {
 }
 
 .info {
-    height:500px;
-    
-    background-color: transparent;
-    
-    font-size:60px;
+    height:60px;
+
+    background-color: white transparent;
+
+    font-size:50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 700px;
 }
